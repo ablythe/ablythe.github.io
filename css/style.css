@@ -1028,10 +1028,11 @@
 				right: 0;
 			}
 
+
 /* Banner */
 
 	#banner {
-		background-image: /*url(../images/dark_tint.png)*/ url(../images/sanddunes.jpg);
+		background-image: /*url(../images/dark_tint.png)*/ url(../images/saul.png);
 		background-position: center center;
 		background-size: cover;
 		color: #ffffff;
@@ -1044,7 +1045,7 @@
 		}
 
 		#banner h2 {
-			color: #ffffff;
+			color: #000000;
 			font-size: 4em;
 			line-height: 1.25em;
 			margin: 0 0 0.5em 0;
