@@ -2458,8 +2458,13 @@
 		display: flex;
 
 	}
-		.spotlight li, .spotlight b, .spotlight h2, .spotlight p {
+		.spotlight li, .spotlight b, .spotlight h2, .spotlight h4, .spotlight p {
 			color: #000000;
+		}
+
+		.spotlight h4 {
+			padding-bottom: 0px;
+			margin-bottom: 0px;
 		}
 
 		.spotlight .image {
@@ -2609,6 +2614,7 @@
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
 				color: #ffffff;
+				margin-bottom: 0;
 			}
 
 			.wrapper.style1 hr {
